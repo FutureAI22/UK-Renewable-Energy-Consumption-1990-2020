@@ -80,6 +80,6 @@ The analysis code is contained within the Jupyter/Colab notebook file included i
 
 ---
 
-*Developed as a data analysis portfolio project. Find me on [LinkedIn](https://www.linkedin.com/in/yourprofile)* ```
+*Developed as a data analysis portfolio project. Find me on [LinkedIn](https://www.linkedin.com/posts/alaamostafa24_dataanalytics-renewableenergy-uk-activity-7315125555803127808-EJ3Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLmM3YBJdjj1ZcEAtr_tZru3QSnhifgQUE)* ```
 
 This should be the complete README reflecting all the adjustments we discussed. Remember to check the paths and URLs marked with `ACTION`.
