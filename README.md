@@ -4,13 +4,13 @@
 
 This repository contains a data analysis project exploring the evolution of renewable energy consumption within the United Kingdom from 1990 to 2020. As the UK progresses towards its Net Zero 2050 target, understanding historical energy transition patterns is crucial. This project analyzes key trends, identifies primary growth drivers within the renewable sector, and visualizes the changing energy landscape over three decades.
 
-This project serves as a portfolio piece demonstrating skills in data analysis, visualization, and insight generation using Python.
+This project serves as a portfolio piece demonstrating skills in data analysis, visualization, and insight generation using Python. The complete analysis code, performed within a Google Colab/Jupyter Notebook environment, is included in this repository.
 
 ## Key Visualisation: UK Energy Trends Dashboard (1990-2020)
 
 The dashboard below summarizes the key trends analyzed in this project.
 
-![UK Energy Trends Dashboard](combined-plots.png) 
+![UK Energy Trends Dashboard](combined-plots.png)
 
 * **Source:** Data compiled from UK government energy statistics, accessed via Kaggle.
 * **Timeframe:** 1990 - 2020 (Annual data).
@@ -69,6 +69,8 @@ The historical trends observed suggest:
 
 ## Running the Analysis
 
+The analysis code is contained within the Jupyter/Colab notebook file included in this repository. To run it:
+
 1.  Clone the repository: `git clone https://github.com/FutureAI22/UK-Renewable-Energy-Consumption-1990-2020.git`
 2.  Navigate to the directory: `cd UK-Renewable-Energy-Consumption-1990-2020`
 3.  Ensure you have Python and the required libraries (`pandas`, `plotly`, `kaleido` for image export) installed. You might want to use a virtual environment.
@@ -79,3 +81,5 @@ The historical trends observed suggest:
 ---
 
 *Developed as a data analysis portfolio project. Find me on [LinkedIn](https://www.linkedin.com/in/yourprofile)* ```
+
+This should be the complete README reflecting all the adjustments we discussed. Remember to check the paths and URLs marked with `ACTION`.
