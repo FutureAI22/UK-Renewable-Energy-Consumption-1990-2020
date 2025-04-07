@@ -67,4 +67,17 @@ The historical trends observed suggest:
 
 **Future analysis could focus on incorporating more recent data and exploring the correlation between policy interventions and renewable energy deployment.**
 
-## Repository Structure
+## Running the Analysis
+
+1.  Clone the repository: `git clone https://github.com/FutureAI22/UK-Renewable-Energy-Consumption-1990-2020.git`
+2.  Navigate to the directory: `cd UK-Renewable-Energy-Consumption-1990-2020`
+3.  Ensure you have Python and the required libraries (`pandas`, `plotly`, `kaleido` for image export) installed. You might want to use a virtual environment.
+    * Consider adding a `requirements.txt` file.
+4.  Open the notebook (e.g., `notebooks/UK_Energy_Analysis.ipynb` - **ACTION: Adjust name/path if needed**) using Jupyter Lab/Notebook or Google Colab.
+5.  Run the cells sequentially to perform the analysis and generate visuals.
+
+---
+
+*Developed as a data analysis portfolio project. Find me on [LinkedIn](https://www.linkedin.com/in/yourprofile)* ```
+
+This version removes the "Repository Structure" section while keeping all other parts, including the crucial "Key Visualisation" section with the image and interactive link. Remember to check the `ACTION` comments.
