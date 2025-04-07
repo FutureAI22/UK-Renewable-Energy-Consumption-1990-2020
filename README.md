@@ -10,7 +10,7 @@ This project serves as a portfolio piece demonstrating skills in data analysis, 
 
 The dashboard below summarizes the key trends analyzed in this project.
 
-![UK Energy Trends Dashboard](images/uk_energy_dashboard.png)  **➡️ Explore the [Interactive Dashboard Live on GitHub Pages](https://FutureAI22.github.io/UK-Renewable-Energy-Consumption-1990-2020/uk_energy_dashboard_interactive.html)** ## Dataset
+![UK Energy Trends Dashboard](images/combined-plots.png)  **➡️ Explore the [Interactive Dashboard Live on GitHub Pages](https://FutureAI22.github.io/UK-Renewable-Energy-Consumption-1990-2020/uk_energy_dashboard_interactive.html)** ## Dataset
 
 * **Source:** Data compiled from UK government energy statistics, accessed via Kaggle.
 * **Timeframe:** 1990 - 2020 (Annual data).
@@ -79,5 +79,3 @@ The historical trends observed suggest:
 ---
 
 *Developed as a data analysis portfolio project. Find me on [LinkedIn](https://www.linkedin.com/in/yourprofile)* ```
-
-This version removes the "Repository Structure" section while keeping all other parts, including the crucial "Key Visualisation" section with the image and interactive link. Remember to check the `ACTION` comments.
