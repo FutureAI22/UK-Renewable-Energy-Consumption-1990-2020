@@ -1,4 +1,4 @@
-# UK Renewable Energy Trends Analysis (1990-2020) 🇬🇧⚡️
+# UK Renewable Energy Trends Analysis (1990-2020)⚡️
 
 ## Overview
 
